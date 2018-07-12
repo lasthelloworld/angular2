@@ -14,5 +14,7 @@ https://blog.csdn.net/onlybymyself/article/details/74783647
 
 
  π”√webpack ¥ÓΩ®angularjs2
+https://www.cnblogs.com/haogj/p/5998556.html
 https://www.cnblogs.com/mrfront/articles/angular2-quickstart.html
+https://www.cnblogs.com/xudengwei/p/6373404.html
 
