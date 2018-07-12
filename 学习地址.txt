@@ -1,1 +1,18 @@
 https://www.w3cschool.cn/angular2/angular2_services.html
+
+
+视频学习地址：
+http://v.youku.com/v_show/id_XMjUwMjI2MDk2NA==.html
+
+angularjs4和Ionic3.x视频教程
+https://blog.csdn.net/yuanlaile/article/details/78105272
+
+
+
+angularjs2 选择webpack还是用angular.cli
+https://blog.csdn.net/onlybymyself/article/details/74783647
+
+
+使用webpack 搭建angularjs2
+https://www.cnblogs.com/mrfront/articles/angular2-quickstart.html
+

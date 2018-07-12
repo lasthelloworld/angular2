@@ -1,0 +1,3 @@
+angular cli 底层就是webpack，只不过又被封装了一层
+angular cli纯傻瓜式让你不需要知道什么是webpack，不需要考虑它是怎么工作的，不需要考虑如何配置
+
